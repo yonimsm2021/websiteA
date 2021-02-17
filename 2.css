@@ -1,0 +1,19 @@
+body{
+	background-color:orange
+
+}
+h1{
+	color:red;
+	background-color:black;
+	text-align:center;
+  }
+h2{
+	color:Blue;
+	background-color:white;
+	text-align:center;
+  }
+p{
+	color:black;
+	background-color:gray;
+	text-align:justify;
+  }
